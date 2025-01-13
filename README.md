@@ -19,11 +19,9 @@ To develop a Comprehensive Credit Card weekly Dashboard that provides real- time
 The dashboard is developed using **Power BI**, providing a dynamic and interactive interface to visualize data from various credit card operations. It includes the following reports:
 
 ### Credit Card Transaction Report
-
-
-
+![Credit card Transaction Dashboard report by asfak_page-0001](https://github.com/user-attachments/assets/dab185e7-0c81-4952-80d1-523765b17a3e)
 ### Credit Card Customer Report
-
+![Credit card Customer Dashboard report by asfak_page-0001](https://github.com/user-attachments/assets/cee7611d-19fe-4143-9586-e99356bdb077)
 
 
 ## Project Insights
