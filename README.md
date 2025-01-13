@@ -12,9 +12,7 @@
 
 ## Objective
 
-The objective of this project is to develop a comprehensive **Credit Card Weekly Dashboard** that provides real-time insights into key performance metrics and trends. The dashboard will enable stakeholders to efficiently monitor and analyze credit card operations, identifying patterns, anomalies, and opportunities for improvement.
-
----
+To develop a Comprehensive Credit Card weekly Dashboard that provides real- time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
 ## Project Dashboard (Power BI)
 
@@ -22,23 +20,11 @@ The dashboard is developed using **Power BI**, providing a dynamic and interacti
 
 ### Credit Card Transaction Report
 
-This report aggregates and visualizes all credit card transactions, allowing users to see trends in spending, payment patterns, and other transaction metrics.
 
-- Overview of transaction types (purchases, payments, fees)
-- Visual breakdown of total spending by categories (e.g., online shopping, dining, etc.)
-- Analysis of high-value transactions
-- Time-based filters to view transactions for the selected week
 
 ### Credit Card Customer Report
 
-The customer report provides detailed information on individual credit card users, highlighting usage patterns, payment behavior, and customer segmentation.
 
-- Breakdown of active vs. inactive users
-- Insights into credit card utilization rate and outstanding balances
-- Age, gender, and geographic distribution of customers
-- Default rates and payment behavior analysis
-
----
 
 ## Project Insights
 
