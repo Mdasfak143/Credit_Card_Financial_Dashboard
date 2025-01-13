@@ -3,13 +3,17 @@
 ## Weekly Report Status
 
 ### Table of Contents
+- [project overview](#project-overview)
 - [Objective](#objective)
 - [Project Dashboard (Power BI)](#project-dashboard-power-bi)
 - [Project Insights](#project-insights)
 - [Final Conclusion](#final-conclusion)
 
 ---
-
+## project overview 
+1. Data Extraction( using SQL)
+2. Data Processing & DAX Queries
+3. Dashboard & Insights
 ## Objective
 
 To develop a Comprehensive Credit Card weekly Dashboard that provides real- time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
