@@ -35,9 +35,21 @@ In this section, we present key findings derived from the data analyzed in the d
 - **Transaction Trends:** Analysis shows increasing spending in specific categories such as online shopping and travel, with particular spikes during the holiday season.
 - **Customer Segmentation:** Younger demographics are showing more frequent credit card usage, while older demographics tend to maintain lower balances.
 - **Payment Behavior:** A significant portion of customers struggle to meet minimum payment requirements, which may indicate the need for financial guidance or early intervention from the institution.
-
----
-
+# Week-over-Week (WoW) Changes:
+- *Revenue: Increased by 28.8%
+- *Total Transaction Amount: Increased by x%  
+- *Total Transaction Count: Increased by x%  
+- *Customer Count: Increased by x%
+### Year-to-Date (YTD) Overview:
+- *Overall Revenue: 57M  
+- *Total Interest: 8M  
+- *Total Transaction Amount: 46M  
+- *Male Customers' Contribution to Revenue: 31M  
+- *Female Customers' Contribution to Revenue: 26M  
+- *Blue & Silver Credit Cards: Contributing 93% of overall transactions  
+- *Top-Contributing States (TX, NY, CA): 68% of total revenue  
+- *Overall Activation Rate: 57.5%  
+- *Overall Delinquent Rate: 6.06%
 ## Final Conclusion
 
 The **Credit Card Financial Dashboard** provides valuable insights into customer behavior and transaction patterns, facilitating better decision-making. By leveraging these real-time metrics, stakeholders can improve credit card operations, enhance customer experiences, and optimize financial strategies.
